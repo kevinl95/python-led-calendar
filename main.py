@@ -61,3 +61,5 @@ with open('template.ledprj') as fin:
                 fout.write(line.replace('REPLACE4', to_Display[3]))
             elif 'REPLACE5' in line:
                 fout.write(line.replace('REPLACE5', to_Display[4]))
+            else:
+                fout.write(line)
