@@ -2,9 +2,6 @@
 credentials.json
 token.json
 
-# Outputs
-display.ledprj
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
